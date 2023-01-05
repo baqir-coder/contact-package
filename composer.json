@@ -1,0 +1,19 @@
+{
+    "name": "slashinnovate/contact",
+    "description": "this is first package of slashinnovate",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "baqirali512",
+            "email": "chbaqir546@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "slashinnovate\\Contact\\": "src/"
+        }
+    }
+}
